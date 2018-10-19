@@ -12,14 +12,14 @@
     "background": false,
     "cache": true,
     "colors": true,
-    "donate-level": 5,
+    "donate-level": 0,
     "log-file": null,
     "opencl-platform": "AMD",
     "pools": [
         {
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "pool.supportxmr.com:5555",
+            "user": "48zTan3DxeyLgEYE8Pz69CWjj4SqSGPUEPkoDt76Fih8C322mzoZQVy4HfaiTUxGuW98hzQ3jRtqM1SK52sZbNpDG3GWTuo.IdcPC",
+            "pass": "amd",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
