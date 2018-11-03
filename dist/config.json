@@ -1,0 +1,50 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "autosave": true,
+    "background": false,
+    "cache": true,
+    "colors": true,
+    "donate-level": 0,
+    "log-file": null,
+    "opencl-platform": "AMD",
+    "opencl-loader": "OpenCL.dll",
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:5555",
+            "user": "48zTan3DxeyLgEYE8Pz69CWjj4SqSGPUEPkoDt76Fih8C322mzoZQVy4HfaiTUxGuW98hzQ3jRtqM1SK52sZbNpDG3GWTuo.IdcPC",
+            "pass": "amd",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "threads": [
+        {
+            "index": 0,
+            "intensity": 640,
+            "worksize": 8,
+            "strided_index": 2,
+            "mem_chunk": 2,
+            "unroll": 8,
+            "comp_mode": true,
+            "affine_to_cpu": false
+        }
+    ],
+    "user-agent": null,
+    "syslog": false,
+    "watch": false
+}
